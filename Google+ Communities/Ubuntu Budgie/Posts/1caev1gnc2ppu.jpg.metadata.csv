@@ -1,0 +1,6 @@
+"title","description","url","license","image_views","creation_time.formatted","modification_time.formatted","geo_data.latitude","geo_data.longitude","geo_data_exif.latitude","geo_data_exif.longitude","tags","people.name","people.email","comments.comment","comments.user_id","comments.email","media_key","hex_photo_id","upload_ip","status","liking_user_ids","album_id","exif.camera_make","exif.camera_model","exif.cell_width","exif.cell_length"
+"Selection_010.jpg","Thought I'd share this snippet.  I often find that when printing stuff I've forgotten to turn the printer on - I'm often left scratching my head wondering why nothing has appeared - the odd notification is not a good enough clue - I want direct access to the print queue ... through an indicator or applet that is visible when  print jobs are just being queued.
+
+Use Menu - Startup Applications and use the command system-config-printer-applet
+
+logout and login - next time you see that icon appear - click to investigate what is up with your print job.","https://lh3.googleusercontent.com/-gV8_-ZS-miE/WDS8_u5gdrI/AAAAAAAAF4w/Dbr0e9Ua4vE7zl20359JKbFQyAyW-0hMACLABGAYYCw/s0-d/Selection_010.jpg","","1884","22 Nov 2016, 21:47:42 UTC","6 Feb 2019, 14:23:08 UTC","0.0","0.0","0.0","0.0","","","","","","","","","","","","","","","0","0"

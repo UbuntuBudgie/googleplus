@@ -1,0 +1,19 @@
+{
+  "albumData": {
+    "title": "2016-11-22",
+    "description": "",
+    "access": "public",
+    "location": "",
+    "date": {
+      "timestamp": "1479851262",
+      "formatted": "22 Nov 2016, 21:47:42 UTC"
+    },
+    "geoData": {
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "altitude": 0.0,
+      "latitudeSpan": 0.0,
+      "longitudeSpan": 0.0
+    }
+  }
+}

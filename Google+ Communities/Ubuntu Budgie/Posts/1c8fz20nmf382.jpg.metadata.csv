@@ -1,0 +1,8 @@
+"title","description","url","license","image_views","creation_time.formatted","modification_time.formatted","geo_data.latitude","geo_data.longitude","geo_data_exif.latitude","geo_data_exif.longitude","tags","people.name","people.email","comments.comment","comments.user_id","comments.email","media_key","hex_photo_id","upload_ip","status","liking_user_ids","album_id","exif.camera_make","exif.camera_model","exif.cell_width","exif.cell_length"
+"1dghao.jpg","Pleasure to announce today - all key budgie-remix packages are now available in Zesty (17.04).  This means all xbuntu users can now enjoy budgie-desktop as budgie-remix users are now using ... without needing the budgie-remix PPA.  Hurray!!!
+
+sudo apt install budgie-desktop-environment
+
+https://launchpad.net/ubuntu/+source/budgie-desktop-environment/0.5.0
+
+... before you ask the PPA will be maintained ongoing - this will be our backports repo offering you the latest and greatest in-between release cycles.","https://lh3.googleusercontent.com/-bjTbwAOHr7U/WBspJ0Je0BI/AAAAAAAABHQ/6b56_VFQHBMJeQFqWWxpSmE1sGw9KV60ACLABGAYYCw/s0-d/1dghao.jpg","","2484","3 Nov 2016, 12:10:15 UTC","6 Feb 2019, 15:04:03 UTC","0.0","0.0","0.0","0.0","","","","","","","","","","","","","","","0","0"
