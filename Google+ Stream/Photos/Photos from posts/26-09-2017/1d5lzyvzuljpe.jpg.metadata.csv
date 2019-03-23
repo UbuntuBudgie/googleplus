@@ -1,0 +1,37 @@
+"title","description","url","license","image_views","creation_time.formatted","modification_time.formatted","geo_data.latitude","geo_data.longitude","geo_data_exif.latitude","geo_data_exif.longitude","tags","people.name","people.email","comments.comment","comments.user_id","comments.email","media_key","hex_photo_id","upload_ip","status","liking_user_ids","album_id","exif.camera_make","exif.camera_model","exif.cell_width","exif.cell_length"
+"you-know-you-want-to-test-ubuntu-budgie-now.jpg","Hi All,
+
+our final 17.10 beta is out and it needs urgent testing.
+
+Our testing page that you should really bookmark is:
+https://ubuntubudgie.org/testing
+
+Please use your launchpad account and login to the ISO tracker - this
+is where you can download the ISO and also find the test cases and
+feedback results (if the test case passes - please submit a pass
+result!!)
+
+I can't emphasize that enough! If you miss the marking of either pass
+or fail on a test case, no one knows the excellent testing job you are
+doing :)
+
+Some links for you:
+
+How to use the ISO tracker:
+https://www.tsimonq2.net/blog/2016/04/27/
+
+Beta 2 is here - http://iso.qa.ubuntu.com/qatracker/milestones/382/builds
+
+Download links for the 32bit and 64bit ISOs are there.
+
+Release notes: https://ubuntubudgie.org/blog/2017/09/25/17-10-release-notes
+
+Suggestion - use spare hardware if you have - or virtual tools like
+virtualbox/vmware/qemu/gnome boxes etc
+
+turnaround time is very tight - we need to finish the testing by
+Thursday early morning (GMT)
+
+thanks
+
+David (project lead)","https://lh3.googleusercontent.com/-96WsaZrLGvQ/Wcn7LXpDEQI/AAAAAAAABJU/AZ4340e9W-wL_Hldj4PUNELFn6oVI1A3QCLABGAYYCw/s0-d/you-know-you-want-to-test-ubuntu-budgie-now.jpg","","1765","Sep 26, 2017, 7:01:01 AM UTC","Feb 6, 2019, 3:04:03 PM UTC","0.0","0.0","0.0","0.0","","","","Can you let me know if i need to to create sardi icons or surfn icons for your distro; <span class=""proflinkWrapper""><span class=""proflinkPrefix"">+</span><a class=""proflink"" href=""https://plus.google.com/105812208904804047916"" oid=""105812208904804047916"">Erik Dubois</a></span> thanks for the offer.  I have prodded <span class=""proflinkWrapper""><span class=""proflinkPrefix"">+</span><a class=""proflink"" href=""https://plus.google.com/104644865683307981392"" oid=""104644865683307981392"">HEX cube</a></span> who will get back to you.  cheers; <span class=""proflinkWrapper""><span class=""proflinkPrefix"">+</span><a class=""proflink"" href=""https://plus.google.com/105812208904804047916"" oid=""105812208904804047916"">Erik Dubois</a></span>​  I tested Sardi and Surfn on on Ubuntu Budgie daily and found them to be working pretty well!😊 Both themes provide a <i>start-here-symbolic</i> icon, which themes the Budgie Menu icon.<br /><br />The only missing pieces were Budgie Welcome and Tilix icons, which I reported against Surfn here: <a href=""https://github.com/erikdubois/Surfn/issues/24"" class=""ot-anchor"">https://github.com/erikdubois/Surfn/issues/24</a> and <a href=""https://github.com/erikdubois/Surfn/issues/25"" data-embed=""CNECCNACCM8CCAASLWh0dHBzOi8vZ2l0aHViLmNvbS9lcmlrZHVib2lzL1N1cmZuL2lzc3Vlcy8yNTplCO3S3ensKxItaHR0cHM6Ly9naXRodWIuY29tL2VyaWtkdWJvaXMvU3VyZm4vaXNzdWVzLzI1Gi1odHRwczovL2dpdGh1Yi5jb20vZXJpa2R1Ym9pcy9TdXJmbi9pc3N1ZXMvMjXS5JaZAc4FCi1odHRwczovL2dpdGh1Yi5jb20vZXJpa2R1Ym9pcy9TdXJmbi9pc3N1ZXMvMjUSOmh0dHBzOi8vYXZhdGFyczIuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMzc1NTM5Nj92PTQmcz00MDAaP1VidW50dSBCdWRnaWUgZGlzdHJpYnV0b3IgbG9nbyDCtyBJc3N1ZSAjMjUgwrcgZXJpa2R1Ym9pcy9TdXJmbiLIAU1vc3QgZGlzdHJvcyBwcm92aWRlIGEgZGlzdHJpYnV0b3IgbG9nbywgdXN1YWxseSBuYW1lZCBkaXN0cmlidXRvci1sb2dvLTxkaXN0cm8tbmFtZT4uIFN1cmZuIGhhcyBwcm92aWRlZCBkaXN0cmlidXRvci1sb2dvLnN2Zy4gVWJ1bnR1IEJ1ZGdpZSBoYXMgZGlzdHJpYnV0b3ItbG9nby11YnVudHUtYnVkZ2llLgpCdWRnaWUgV2VsY29tZSB1c2VzLi4uQkwI3gIIzwIIABIdaHR0cHM6Ly9naXRodWIuY29tL2VyaWtkdWJvaXOig7ecAR8KHWh0dHBzOi8vZ2l0aHViLmNvbS9lcmlrZHVib2lzygvVAQjTAgjSAgjQAgjPAggAEjpodHRwczovL2F2YXRhcnMyLmdpdGh1YnVzZXJjb250ZW50LmNvbS91LzM3NTUzOTY_dj00JnM9NDAwytTMmQGEAQo6aHR0cHM6Ly9hdmF0YXJzMi5naXRodWJ1c2VyY29udGVudC5jb20vdS8zNzU1Mzk2P3Y9NCZzPTQwMBI6aHR0cHM6Ly9hdmF0YXJzMi5naXRodWJ1c2VyY29udGVudC5jb20vdS8zNzU1Mzk2P3Y9NCZzPTQwMJoBAzQwMKIBAzQwMPoRLWh0dHBzOi8vZ2l0aHViLmNvbS9lcmlrZHVib2lzL1N1cmZuL2lzc3Vlcy8yNQ"" data-attachment-render-hint=""1"" class=""ot-anchor"">github.com - Ubuntu Budgie distributor logo · Issue #25 · erikdubois/Surfn</a>; <span class=""proflinkWrapper""><span class=""proflinkPrefix"">+</span><a class=""proflink"" href=""https://plus.google.com/104644865683307981392"" oid=""104644865683307981392"">HEX cube</a></span>thanks on the to-do list  let us first launch <a rel=""nofollow"" class=""ot-hashtag"" href=""https://plus.google.com/s/%23archmerge/posts"">#archmerge</a>; <span class=""proflinkWrapper""><span class=""proflinkPrefix"">+</span><a class=""proflink"" href=""https://plus.google.com/105812208904804047916"" oid=""105812208904804047916"">Erik Dubois</a></span> are you aware of any debian packages/PPAs that have sardi and surfn in?  Its not hard-to-do - just wondering if that work has already been done by a really nice packager :); <span class=""proflinkWrapper""><span class=""proflinkPrefix"">+</span><a class=""proflink"" href=""https://plus.google.com/106459857019142382817"" oid=""106459857019142382817"">Ubuntu Budgie</a></span> if you have the time and knowledge please do. I have tried it months ago and failed. It is easier to make it Arch Linux then in Debian...; I think Noobslab PPA has Sardi package. They have packages for almost all themes and icons. But, I&#39;m not sure if the quality standards meet the level needed for Debian acceptance.; <span class=""proflinkWrapper""><span class=""proflinkPrefix"">+</span><a class=""proflink"" href=""https://plus.google.com/105812208904804047916"" oid=""105812208904804047916"">Erik Dubois</a></span>  Once the themes and icons are packaged in a proper format, it&#39;ll be easier for us to offer them &#39;out of box&#39; in Ubuntu Budgie, via Budgie Welcome.","; ; ; ; ; ; ; ","; ; ; ; ; ; ; ","","","","","","","","","0","0"

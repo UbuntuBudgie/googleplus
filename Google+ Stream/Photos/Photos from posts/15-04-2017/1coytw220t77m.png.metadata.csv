@@ -1,0 +1,20 @@
+"title","description","url","license","image_views","creation_time.formatted","modification_time.formatted","geo_data.latitude","geo_data.longitude","geo_data_exif.latitude","geo_data_exif.longitude","tags","people.name","people.email","comments.comment","comments.user_id","comments.email","media_key","hex_photo_id","upload_ip","status","liking_user_ids","album_id","exif.camera_make","exif.camera_model","exif.cell_width","exif.cell_length"
+"Wallpapoz_757.png","Per Workspace Wallpaper
+
+As you I'm sure have found out, you can only have one wallpaper for all workspaces. As far as I can gather GNOME doesn't support per workspace wallpapers. Kind of a shame really. 😞
+
+So here is a neat app which I have adapted for Budgie desktop. Let me know if it's useful. I might make it a debian package to be easily installable. Equally - if you know of a better way let me know! 😊
+
+Until then:
+
+git clone https://github.com/UbuntuBudgie/wallpapoz
+cd wallpapoz/src
+./wallpapoz
+
+Change your wallpaper for each workspace (right click for the menu you see here).
+Click Save
+Click Restart for the Daemon
+
+If you want this on startup - just add the launcher in that folder to your start up applications.
+
+David﻿","https://lh3.googleusercontent.com/-M-LsVo64Uco/WPHLAP01McI/AAAAAAAABG4/MjEQu-HZThAtu0VDi2E7geeUOw9FYkDNACLABGAYYCw/s0-d/Wallpapoz_757.png","","2067","Apr 15, 2017, 7:25:52 AM UTC","Feb 6, 2019, 3:04:03 PM UTC","0.0","0.0","0.0","0.0","","","","","","","","","","","","","","","0","0"
